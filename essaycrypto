@@ -1,0 +1,22 @@
+Blockchain and cryptocurrencies is a fascinating development that is going on in the IT world, 
+it changes the way we pay for stuff online and soon to be in person. Historic examples of such
+developments include the internet, smartphones, cloud computing and public key cryptography
+
+Blockchains is used on the internet as a record keeping technology behind bitcoin. There is a good
+chance that it makes so much sense. Definition you have probably heard is: blockchain is a distributed,
+decentralized, public ledger. Or you could call it a chain of blocks made up of digital pieces of information.
+Includes 3 parts Stores information like the date, time, and dollar amount of your most recent purchase from Amazon.
+Seceond thing blocks store information about who is participating in transactions, using a unique digital signature 
+sort of like a username third part is it blocks store information that distinguishes them from the other blocks so 
+I guess each block has a memory and calls each block a name to remember it by. Each block has a unique code called hash
+Each one has a different unique code say if you made a purchase on amazon but while its in delivery you want another 
+one even though your details of the new transaction is identical you can still tell the blocks apart bby the unique 
+codes  
+
+cryptocurrency based around the internet used to make trades in secret the most important
+feature about cryptocurrency is that it is not controlled by any central authority: decentrilized nature of the 
+blockchain makes cryptocurrencies immune to the old ways of government control and interference cryptocurrencies
+can be sent between two people via the use of private and public keys avoiding the cost of major banks fees.
+Bitcoin mining is performed by high powered computers that solve complex math problems 
+
+public key cryptography
